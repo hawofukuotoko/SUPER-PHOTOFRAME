@@ -1,21 +1,22 @@
-# SUPER-PHOTOFRAME
-test
 # Minimal Digital Photo Frame
-A Raspberry Pi powered open project
+Power on → QR setup → rotate to browse. USB-first, DLNA optional.
 
-![device](./images/hero.jpg)
+![hero](./docs/images/hero.jpg)
 
-## Features
-- USB / DLNA photo slideshow
-- Rotary knob control
-- Minimal kiosk UI
+## What is this?
+A minimal Raspberry Pi-based digital photo frame with a physical rotary knob.
+- USB `/library` auto-scan
+- Optional DLNA discovery (toggle)
+- Kiosk boot (black → logs → UI)
+- Network/IO failure fallback image
 
-## Get Started
-👉 [Build Guide](./build.md)  
-👉 [STL files](./stl/)  
-👉 [Download software](./releases)  
-👉 [Buy completed unit](https://tindie.com/xxx)
+**Try / Build / Buy**
+- 👉 **Build Guide**: ./docs/build.md  
+- 👉 **STL Files**: ./stl/  
+- 👉 **Download / Install**: ./software/ (or Releases)  
+- 👉 **Buy Enclosure / Kit**: (Tindie/Etsy link)
 
----
-
-© 2025 T/o Studio | CC BY-NC 4.0
+## License
+- Source & docs: **CC BY-NC 4.0** (non-commercial)  
+- Enclosure STL: **CC BY-NC 4.0**  
+© 2025 T/o Studio
